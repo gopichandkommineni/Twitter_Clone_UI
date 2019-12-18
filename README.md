@@ -38,15 +38,4 @@ Hemanth Kumar Malyala       UFID 6348-5914
 	Re-tweet functionality
 	
 	
-# Bonus Implementation:
-		
-	We have implemented the user authentication.
-	A User will not be able to login if he is not registered earlier with a user name and password.
-	Also, he won't be able to login with incorrect credentials.
-		
-		
-	Official website: http://www.phoenixframework.org/
-	Guides: http://phoenixframework.org/docs/overview
-	Docs: https://hexdocs.pm/phoenix
-	Mailing list: http://groups.google.com/group/phoenix-talk
-	Source: https://github.com/phoenixframework/phoenix
+
