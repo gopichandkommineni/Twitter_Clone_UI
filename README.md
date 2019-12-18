@@ -1,4 +1,4 @@
-# DOS Project 4.2
+# Twitter Clone with UI
 
 Gopichand Kommineni         UFID 0305-5523
 Hemanth Kumar Malyala       UFID 6348-5914
